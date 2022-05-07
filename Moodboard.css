@@ -1,0 +1,157 @@
+.moodhead {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 700px;
+    width: 1000px;
+    border-width: 5px;
+    top: 20%;
+    left: 11%;
+    bottom: 5%;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    border: solid;
+    background-color: bisque;
+
+}
+
+.moodhead p {
+    padding-top: 10px;
+    border: solid;
+    width: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 22.5%;
+    background-color: white;
+}
+
+.danger {
+    position: absolute;
+    left: 15%;
+    bottom: 65%;
+    font-size: 20px;
+}
+
+.danger p1 {
+    position: absolute;
+    right: -350%;
+    font-size: 20px;
+}
+
+.danger1 p1 {
+    position: absolute;
+    right: -530%;
+    font-size: 20px;
+}
+
+.danger1 {
+    position: absolute;
+    left: 15%;
+    bottom: 57%;
+    font-size: 20px;
+}
+
+.danger2 p1 {
+    position: absolute;
+    right: -350%;
+    font-size: 20px;
+}
+
+.danger2 {
+    position: absolute;
+    left: 15%;
+    bottom: 50%;
+    font-size: 20px;
+}
+
+.danger3 p1 {
+    position: absolute;
+    right: -360%;
+    font-size: 20px;
+}
+.danger3 {
+    position: absolute;
+    left: 15%;
+    bottom: 43%;
+    font-size: 20px;
+}
+
+.danger4 p1 {
+    position: absolute;
+    right: -443%;
+    font-size: 20px;
+}
+
+.danger4 {
+    position: absolute;
+    left: 15%;
+    bottom: 36%;
+    font-size: 20px;
+}
+
+.danger5 p1 {
+    position: absolute;
+    right: -605%;
+    font-size: 20px;
+}
+
+.danger5 {
+    position: absolute;
+    left: 15%;
+    bottom: 30%;
+    font-size: 20px;
+}
+
+.danger6 p1 {
+    position: absolute;
+    right: -340%;
+    font-size: 20px;
+}
+
+.danger6 {
+    position: absolute;
+    left: 15%;
+    bottom: 23%;
+    font-size: 20px;
+}
+
+.danger7 p1 {
+    position: absolute;
+    right: -410%;
+    font-size: 20px;
+}
+
+.danger7 {
+    position: absolute;
+    left: 15%;
+    bottom: 16%;
+    font-size: 20px;
+}
+
+.danger8 p1 {
+    position: absolute;
+    right: -280%;
+    font-size: 20px;
+}
+
+.danger8 {
+    position: absolute;
+    left: 15%;
+    bottom: 10%;
+    font-size: 20px;
+}
+
+.danger9 p1 {
+    position: absolute;
+    right: -320%;
+    font-size: 20px;
+}
+
+.danger9 {
+    position: absolute;
+    left: 15%;
+    bottom: 3%;
+    font-size: 20px;
+}

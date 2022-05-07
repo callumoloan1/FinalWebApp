@@ -1,0 +1,21 @@
+.Contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.form1 {
+    align-items: center;
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    border: solid;
+    border-width: 5px;
+    font-size: 15px;
+    background-color: bisque;
+    font-weight: bold;
+
+}
+

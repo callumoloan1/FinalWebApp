@@ -1,0 +1,49 @@
+.form1 {
+    align-items: center;
+    text-align: center;
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    border: solid;
+    border-width: 5px;
+    font-size: 15px;
+    background-color: bisque;
+    font-weight: bold;
+
+}
+
+.user {
+    padding-top: 20px;
+    text-align: center;
+    background-color: lightgray;
+    border: solid;
+    border-top: hidden;
+    border-width: 5px;
+}
+
+.post-list {
+    background-color: lightgray;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.danger {
+    align-items: left;
+    text-align: right;
+    padding-top: 20px;
+}
+
+.mood {
+    text-align: center;
+    padding-top: 50px;
+    border-width: 20px;
+    background-color: bisque;
+    border: solid;
+    padding-bottom: 50px;
+}
+
+.post-list p {
+    font-size: 15px;
+    font-style: italic;
+}
